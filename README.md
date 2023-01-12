@@ -12,7 +12,9 @@ Here are some of the projects I've worked on:
 -    ◦ : applied mathematical mapping functions to translate the array into musical octaves, scales, and frequencies.<br>
 -    ◦ : process resulted in the generation of unique musical compositions using algorithmically generated data. 
 - <b> Food delivery Time prediction using python</b>:<br>Tech stack: Pandas, Numpy, Plotly express, Sklearn, Keras<br>
--  ◦ : Utilizing Long-Short-Term-Memory (LSTM) neural networks, I developed a predictive model to estimate food delivery times with high accuracy.<br> ◦ : The model was trained on a large dataset using Python libraries such as NumPy, pandas, Keras, and scikit-learn. <br>◦ : The model was able to learn from the dataset and make accurate predictions which helped in delivering food on time and providing better customer service.
+-  ◦ : Utilizing Long-Short-Term-Memory (LSTM) neural networks, I developed a predictive model to estimate food delivery times with high accuracy.<br>   
+-  ◦ : The model was trained on a large dataset using Python libraries such as NumPy, pandas, Keras, and scikit-learn. <br>
+-  ◦ : The model was able to learn from the dataset and    make accurate predictions which helped in delivering food on time and providing better customer service.
 
 
 ## Education
