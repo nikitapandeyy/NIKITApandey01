@@ -1,6 +1,6 @@
 - # My Profile
 
-![Your Profile Picture](https://avatars2.githubusercontent.com/u/NIKITApandey01)
+
 
 
 # NIKITA PANDEY
